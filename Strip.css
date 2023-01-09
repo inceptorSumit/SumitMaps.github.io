@@ -1,0 +1,13 @@
+.str{
+    display: flex;
+    flex-direction: row;
+}
+
+.str>div{
+    display: flex;
+    flex:1;
+    text-align: center;
+    align-items: center;
+    justify-content: center;   
+    text-shadow: rgb(254, 254, 254) 3px 1px 15px;
+}
